@@ -10,8 +10,8 @@ range from very philosophical to very practical. We'll start with
 debugging tips. READ THESE before you start on the lab, which are taken
 from the maker of codingbat, Nick Parlante.
 
-You'll get credit for the lab for answering questions in the form.  In order to encourage reading, I have moved the link to where the form is (you'll find out the link to the form as you read).  As you read the lab, you'll be asked at times to visit a form at that
-moment, with a single problem being an entire section in the google form, which will be in bold. You can work with one other person
+You'll get credit for the lab for answering questions in the Canvas lab. As you read this instructions, you'll be asked at times to visit the Canvas Lab at that
+moment, with a single problem being the consern. You can work with one other person
 throughout the lab, **but each person must submit their own form**.
 
 ## Some advice
