@@ -82,7 +82,7 @@ throughout the lab, **but each person must submit their own form**.
 > so clicking on them will immediately jump your editor to that file and
 > line.  The lines also show a stack trace of who called which method, *so that a
 > function on a lower line will be directly responsible for calling the line above it 
-> in that particular exception's case.*   Remember also that there is a [video on null pointer exceptions I did a while back](https://youtu.be/x9JArfGJb8c) that explains more about what exceptions mean in general.
+> in that particular exception's case.*   Remember also that there is a [video on null pointer exceptions that was done a while back](https://youtu.be/x9JArfGJb8c) that explains more about what exceptions mean in general.
 
 Your grade for this lab will be based on your answers to a [google form](http://go.djosv.com/debuglab),
 your answers will include the number of bugs that you find and detail in
