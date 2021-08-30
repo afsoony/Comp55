@@ -371,8 +371,7 @@ around as well. Work with a partner for this lab. Put breakpoints, think
 of good test-cases that you can write in the code **(adding code is
 great when debugging)** and come up with additional tests that you can
 write to help you understand what the problems are and to ensure that
-your Fractions Program is truly working the way it should be. Your tests
-can be simple print statements like we've done with Traffic Jam.
+your Fractions Program is truly working the way it should be. 
 
 **Problem 8: Start debugging the code in full now, use the instructions
 provided online to document what you try.**
