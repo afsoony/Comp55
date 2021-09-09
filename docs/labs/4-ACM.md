@@ -3,7 +3,7 @@
 By this point you've completed the Java Lab and have done some work on
 the project. Congratulations\! Getting started and getting a program to
 run in a new language is no easy task. With your love/hate relationship
-with java already budding, it's time to for us to learn a special
+with java already budding, it's time for us to learn a special
 library that we will be using this semester that will let us easily
 incorporate graphics into our programs. This library is called the ACM
 library, a library built by a [special task force](https://dl.acm.org/doi/abs/10.1145/1121341.1121384) for the [Association for
@@ -14,8 +14,8 @@ Professionals. The version that we'll be using is a special adapted version of t
 - the way it's laid out will well prepare you to learn other languages and libraries in the future
 
 First, download **IntroACMLab.zip** from canvas and then import that
-file as an existing project into Eclipse, like we did in the [*Intro to
-Java*](http://onzfonz.github.io/comp55/labs/2-JavaIntro.html) lab.
+file as an existing project into Eclipse, like we did in the Intro to
+Java lab.
 
 Once imported, open **ACMLab.java** in the editor. This file contains
 additional features that we have yet to talk about. Here's the contents
