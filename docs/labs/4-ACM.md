@@ -161,9 +161,9 @@ Remember that when we have numbers that we keep using, it makes sense to create 
 
 Let's move on to work with the three most basic shapes in the ACM
 library – rectangles, ovals, and lines. The best way to learn is to just
-to play around with some of the numbers for each shape to get used to
+play around with some of the numbers for each shape to get used to
 how things behave. Let's start with a rectangle. To make a rectangle,
-create a ```GRect``` and then add it to the canvas. A ```new GRect``` takes in
+create a ```GRect``` and then add it to the canvas( the brogram window you get, when you run your project). A ```new GRect``` takes in
 four arguments, the **x** and **y** position of where the Rectangle
 should be placed, and its **width** and **height** all in pixels. So for
 example, let's place a rectangle at ```START_X, START_Y``` with a width of
