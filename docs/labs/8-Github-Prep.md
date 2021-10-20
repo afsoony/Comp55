@@ -24,7 +24,7 @@ is give youself an icon picture, which is always fun to do and can be done from 
 Visit this URL:
 
 Section 1 ---- **<https://classroom.github.com/a/JzO_qIDd>**
-Section 2 ---- **<https://classroom.github.com/a/LRoixcN9>**
+Section 2 ---- **<https://classroom.github.com/a/5vHYyZKf>**
 
 You'll be presented with a window like this:
 
@@ -63,6 +63,7 @@ if you log back in you just need to access your repositories, which will
 be listed on the right once you login. Clicking on the repository will land you at a page similar to what was shown above.
 
 ## Saving your Github Credentials
+if your git password is not accepted in next step, try this approach "Got to Git settings -> developer settings -> personal access tocken -> create new tocken -> give it a name, set expiration to no expiration and select all options and then create your tocken. this can be used as your password."
 Because you'll be need to enter your credentials often, it may make sense to just store them in the secure store, which means that the credentials are stored on your computer.  If you are super worried about safety, please just store them there and use a throwaway account for this class.  I've had to deal with many more students forgetting their github passwords and locking themselves over their accounts, than having students whose computers have been hacked and whose github credentials have been rickrolled.  So please check the option **Store in Secure Store** so that
 way your password is saved. As part of this, eclipse may ask you for some
 recovery questions, which you can provide if you want, but nonetheless *save your password in the secure store*, the only scenario where I can see this being an issue if you are sharing an eclipse program with another developer who has a different login, and that should be quite scarce. s
