@@ -190,7 +190,4 @@ There's no need to upload anything to canvas as all your changes will be
 stored on github. Hooray\!
 
 That's it for now\! We'll do more with git in the future, but this is
-just meant to get you ready for when we start coding, which you should
-not do yet, since I have more code to give you to help you move along in
-the project, work on designing and coming up with classes and methods
-and the rest of your system design project instead\!
+just meant to get you ready for when we start coding.
