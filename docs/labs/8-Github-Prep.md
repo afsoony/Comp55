@@ -23,7 +23,7 @@ is give youself an icon picture, which is always fun to do and can be done from 
 
 Visit this URL:
 
-**<http://go.djosv.com/prelab>**
+**<https://classroom.github.com/a/JzO_qIDd>**
 
 You'll be presented with a window like this:
 
