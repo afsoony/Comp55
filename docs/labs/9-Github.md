@@ -26,7 +26,7 @@ searching for things in google. Once you decide on an admin notify me.
 
 ## Step 1: Team Admins - setup repo
 ## Everyone else – Observe the process
-Session 1 - "https://classroom.github.com/a/OjDkILMR"
+Session 1 - "https://classroom.github.com/a/qR5D9LHx"
 Session 2 - "https://classroom.github.com/a/OjDkILMR"
 
 Team Admins, go to one of the above links. There you'll
@@ -37,7 +37,7 @@ can now signup.
 ## Step 2: Everyone - Clone the new project
 
 Once your team admin has notified you that the team has been created,
-visit session 1 - **https://classroom.github.com/a/OjDkILMR**, session 2 - **https://classroom.github.com/a/OjDkILMR**. Make sure that you **choose your
+visit session 1 - **https://classroom.github.com/a/qR5D9LHx**, session 2 - **https://classroom.github.com/a/OjDkILMR**. Make sure that you **choose your
 correct group**. Once you've chosen the group and accepted the group
 assignment, you'll then be led to your new repository. At this point
 you'll want to **clone** your team's new project.
