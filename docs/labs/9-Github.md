@@ -25,9 +25,11 @@ In addition to feeling comfortable with computers, your git team admin should al
 searching for things in google. Once you decide on an admin notify me.
 
 ## Step 1: Team Admins - setup repo
-## Everyone else – Review the mini-lab steps
+## Everyone else – Observe the process
+Session 1 - "https://classroom.github.com/a/OjDkILMR"
+Session 2 - "https://classroom.github.com/a/OjDkILMR"
 
-Team Admins, [go to this site](http://go.djosv.com/teamlab). There you'll
+Team Admins, [go to this site](https://classroom.github.com/a/OjDkILMR). There you'll
 accept the assignment, and it will ask you to create a team. Make a team with your team's name. Once you [continue](lab9media/media/acceptteam.gif), you'll eventually be asked to wait a little bit while github creates the repository.  [After refreshing the page](lab9media/media/repomade.gif) you'll get the default files that I have provided for all of
 you for this lab. The next thing will be to let everyone know that they
 can now signup.  
@@ -35,7 +37,7 @@ can now signup.
 ## Step 2: Everyone - Clone the new project
 
 Once your team admin has notified you that the team has been created,
-visit **go.djosv.com/teamlab**. Make sure that you **choose your
+visit session 1 - **https://classroom.github.com/a/OjDkILMR**, session 2 - **https://classroom.github.com/a/OjDkILMR**. Make sure that you **choose your
 correct group**. Once you've chosen the group and accepted the group
 assignment, you'll then be led to your new repository. At this point
 you'll want to **clone** your team's new project.
