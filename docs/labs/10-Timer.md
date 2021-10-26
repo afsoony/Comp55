@@ -78,7 +78,7 @@ simple window with a label that does nothing. **Let's first start by
 creating a Timer in the ```**run**``` method**. You can name the timer anything
 you want, but have the 1<sup>st</sup> argument be ```1000``` and the 2<sup>nd</sup> argument be **```this```**. Having these two arguments means ```MyFirstTimer``` (```this```) will be
 notified every second (```1000```ms). The next step will be to implement the ```ActionListener``` interface. Let's add ```implements
-ActionListener``` to line 8, as well as an ```actionPerformed```
+ActionListener``` to line you define your class "public class MyFirstTimer extends GraphicsProgram implements ActionListener", as well as an ```actionPerformed```
 method.
 
 ```java
