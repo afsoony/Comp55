@@ -325,21 +325,8 @@ rest of this lab I will refer to it as the Display pane. Display will
 then show up maybe at the bottom. What's nice about this one is that you
 can write code and have eclipse evaluate it on the fly. You can even put
 expressions and complicated lines of code that aren't in your code at
-all but that you just want to figure out the value to. So for example,
-if we were to debug your Traffic Jam's ```Board``` class, you may have a
-line like this in your ```canMoveNumSpaces``` method…
-
-```java
-board[start.getRow()-1-numSpaces][start.getCol()-1] == null
-```
-
-Unfortunately, you can't inspect that line while debugging your Buggy
-Fractions Program (you would need to inspect it while debugging your own
-code, if in fact, you had a ```board```, ```start```, and ```numSpaces```
-variables)…but if you were to debug your traffic jam and had a
-breakpoint in ```canMoveNumSpaces``` you could examine any piece of that
-line to determine what the code would evaluate to. Coming back to the
-initial bug that we had, you can write some pretty creative expressions and evaluate each piece, which may also be helpful when you have really confusing lines.  See here for example on how to examine different parts of your code that get evaluated to a value, which with any expression you could highlight part of the statement to see how the different parts get calculated (this is very useful when checking if statement conditions for example).
+all but that you just want to figure out the value to. 
+You can write some pretty creative expressions and evaluate each piece, which may also be helpful when you have really confusing lines. See here for example on how to examine different parts of your code that get evaluated to a value, which with any expression you could highlight part of the statement to see how the different parts get calculated (this is very useful when checking if statement conditions for example).
 
 ![](lab3media/media/debugshell.gif)
 
