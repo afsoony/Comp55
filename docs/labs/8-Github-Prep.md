@@ -23,8 +23,9 @@ is give youself an icon picture, which is always fun to do and can be done from 
 
 Visit this URL:
 
-Section 1 ---- **<https://classroom.github.com/a/C1eMizbQ>**
-Section 2 ---- **<https://classroom.github.com/a/5vHYyZKf>**
+Section 1 ---- **<https://classroom.github.com/a/WvYO_z4w>**
+
+Section 2 ---- **<https://classroom.github.com/a/BdXnCazf>**
 
 You'll be presented with a window like this:
 
