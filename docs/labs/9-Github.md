@@ -26,7 +26,7 @@ searching for things in google. Once you decide on an admin notify me.
 
 ## Step 1: Team Admins - setup repo
 ## Everyone else – Observe the process
-Session 1 - "https://classroom.github.com/a/_hElIw89"
+Session 1 - "https://classroom.github.com/a/NofZ0CLv"
 
 Session 2 - "https://classroom.github.com/a/J6mAn4kR"
 
