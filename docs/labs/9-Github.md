@@ -28,7 +28,7 @@ searching for things in google. Once you decide on an admin notify me.
 ## Everyone else – Observe the process
 Session 1 - "https://classroom.github.com/a/NofZ0CLv"
 
-Session 2 - "https://classroom.github.com/a/J6mAn4kR"
+Session 2 - "https://classroom.github.com/a/h6MGyQE6"
 
 Team Admins, go to one of the above links. There you'll
 accept the assignment, and it will ask you to create a team. Make a team with your team's name. Once you [continue](lab9media/media/acceptteam.gif), you'll eventually be asked to wait a little bit while github creates the repository.  [After refreshing the page](lab9media/media/repomade.gif) you'll get the default files that I have provided for all of
