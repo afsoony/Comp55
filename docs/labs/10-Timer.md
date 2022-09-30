@@ -42,7 +42,7 @@ are currently in.
 
 ### 2. Setup event handlers - ```ActionListener``` and ```actionPerformed``` - in the appropriate class
 Any class that would like to be responsible party for
-handling the alarm must implement the ```ActionListener``` interface. The
+handling the alarm must implement the ```ActionListener``` interface.to be able to use it you have to import java.awt.event.*. The
 ```ActionListener``` interface has just one method, ```public void
 actionPerformed(ActionEvent e)```. So every time the timer wakes up, it
 calls the ```objectToBeWokenUp```'s ```actionPerformed``` method. The structure
