@@ -43,7 +43,7 @@ Also, you may receive a warning about the process taking longer than usual, have
 Once it's finished installing, you'll then get a green *Launch* button.
 Click it to start Eclipse.
 
-![](lab1media/media/greenlaunch.png)
+![](lab1media/media/launch.png)
 
 ## STEP 4: Get Familiar with and start Eclipse
 
