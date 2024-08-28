@@ -134,7 +134,7 @@ thing like "Hello, world", so let's do that. Go ahead and right click on
 Solutions you had in Visual Studio. After clicking, you'll see a window
 that looks like this…
 
-![](lab1media/media/image8.gif)
+![](lab1media/media/HelloWorld.png)
 
 Give your project a name *Hello World*, and then click **Finish**. They'll ask you if you want to create a module info, which you can ignore for now by clicking **Don't Create**.  You'll then see a project named Hello World on the left in your package explorer.
 
