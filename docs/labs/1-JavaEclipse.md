@@ -18,7 +18,7 @@ programs setting in windows, or applications on a mac, and searching for any jav
 
 Go to the eclipse site: <http://www.eclipse.org/downloads>
 
-![](lab1media/media/image3.png)
+![](lab1media/media/download.png)
 
 Click the orange download 64 bit button. It will take you to another
 page where you need to click the big orange download button again at the top.
