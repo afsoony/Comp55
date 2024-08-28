@@ -13,7 +13,7 @@ programs setting in windows, or applications on a mac, and searching for any jav
 
 ![](lab1media/media/image0.gif)
 
-
+![](lab1media/media/jdk.png)
 ## STEP 2: Download Eclipse
 
 Go to the eclipse site: <http://www.eclipse.org/downloads>
