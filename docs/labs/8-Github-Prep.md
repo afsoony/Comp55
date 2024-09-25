@@ -23,7 +23,7 @@ is give youself an icon picture, which is always fun to do and can be done from 
 
 Visit this URL:
 
-Classroom ---- **<https://classroom.github.com/classrooms/182560395-fall2024comp55-classroom>**
+Classroom ---- **<https://classroom.github.com/a/DDephhVg>**
 
 You'll be presented with a window like this:
 
