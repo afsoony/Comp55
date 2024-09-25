@@ -6,9 +6,8 @@ it works, and how we can make something that is pretty cool using it.
 For this demo we're going to start with a very basic timer. You'll be
 able to get timers lab by checking out the repository from github here:
 
-Session 1 - <https://classroom.github.com/a/4xtc_VqI>
+Assignment Link - <https://classroom.github.com/a/I3O68eLN>
 
-Session 2 - <https://classroom.github.com/a/rxkpjIJk>
 
 Once you accept the assignment, make sure to from eclipse use the [***File-\>Import-\>Git-\>Projects from Git*** process](lab8media/media/importrepo.gif) that we outlined previously, [making sure to select the appropriate actions as you move through](lab8media/media/importfromgit.gif). Be sure to read the entire document, as I'll be asking you to commit and push at various parts while you're working on the project.
 
