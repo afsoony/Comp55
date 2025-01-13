@@ -211,19 +211,7 @@ Congrats you've written and run your first Java application\! Java
 doesn't have a separate compile and run step like you did in C++, it's
 all combined into one step.  Like I mentioned to you before, the whole colors thing is a big rabbit hole.  If you notice in the picture that I ran, the text that should be colored is not, which may happen.  That is ok.  Once you start editing it again it will re-apply the color scheme.  But in order to be completely in line with this class and the color theme, we are going to do one last set of steps.
 
-## STEP 8 - One Last Customization to the Color Theme
-
-If I get to this, I will try to make this match as much as possible the site, with a couple of added preferences to keep it in line with some of the things that I've seen with Eclipse.  So to that end, I'd like you to **[download this file](lab1media/media/COMP55LabColorScheme.xml)** which you'll have to do by opening the link, copying the code in a text file (open notepad or textEdit) and then save as any name you want with the XML extension.  
-
-Then once you have that, you're going to go to *Window->preferences->DevStyle->Color Themes*.  Once there I made two changes.  I decided I wanted my icons to be a little bit more subdued, so I went with the pastels option.  More importantly though let's get the color scheme to be closer to the theme here on this site.  Simply choose the xml file you downloaded and then click apply.  Eclipse will ask to restart and once you do, you'll notice that the colors changed and have the same style as the final ones in the static image below.
-
-![](lab1media/media/finalcolorchanges.gif)
-
-![](lab1media/media/finallook.png)
-
-While you are in those preferences, there is also a devstyle privacy option that should you wish, you can opt out of.  I will only be supporting these colors, so in the future all guides will be using darkstyle with this xml layout and the pastel icons.  If you wish to go with another scheme, I will not answer any questions about where those icons are.  Please again, I can't stress this enough, do not spend more time trying to pick colors now.  You can do that at the end once you are finished with traffic jam.
-
-# STEP 9 – Submit confirmation by uploading a picture to Canvas
+# STEP 8 – Submit confirmation by uploading a picture to Canvas
 
 To get credit for this lab, what you'll do is submit an image of you
 running this hello world program to canvas, but using your own name
