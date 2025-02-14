@@ -26,7 +26,7 @@ searching for things in google. Once you decide on an admin notify me.
 
 ## Step 1: Team Admins - setup repo
 ## Everyone else – Observe the process
-ClassRoom Link - "https://classroom.github.com/a/cRYLf0VO"
+Assignment Link - "https://classroom.github.com/a/0SAzb53e"
 
 Team Admins, go to the above link. There you'll
 accept the assignment, and it will ask you to create a team. Make a team with your team's name. Once you [continue](lab9media/media/acceptteam.gif), you'll eventually be asked to wait a little bit while github creates the repository.  [After refreshing the page](lab9media/media/repomade.gif) you'll get the default files that I have provided for all of
@@ -36,7 +36,7 @@ can now signup.
 ## Step 2: Everyone - Clone the new project
 
 Once your team admin has notified you that the team has been created,
-visit **https://classroom.github.com/a/cRYLf0VO**. Make sure that you **choose your
+visit **https://classroom.github.com/a/0SAzb53e**. Make sure that you **choose your
 correct group**. Once you've chosen the group and accepted the group
 assignment, you'll then be led to your new repository. At this point
 you'll want to **clone** your team's new project.
